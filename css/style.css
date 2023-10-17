@@ -1,0 +1,46 @@
+nav {
+    height: 100px;
+    background-color: #0049B7;
+}
+
+.container {
+    overflow: hidden;
+}
+
+
+.section {
+    width: 33.33%;
+    height: 200px;
+    float: left;
+}
+
+.content1 {
+    width: 70%;
+    height: 200px;
+    background-color: #A28089;
+    float: left;
+}
+
+.content2 {
+    width: 30%;
+    height: 200px;
+    background-color: #FF4F61;
+    float: right;
+}
+
+.content3 {
+    background-color: #08C6AB;
+}
+
+.content4 {
+    background-color: #439093;
+}
+
+.content5 {
+    background-color: #2A2F3D;
+}
+
+footer {
+    height: 100px;
+    background-color: #1E1E5D;
+}
